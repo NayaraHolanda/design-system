@@ -1,7 +1,7 @@
 {
-  "name": "@ignite-ui/docs",
+  "name": "@n-ignite-ui/docs",
   "private": true,
-  "version": "0.0.0",
+  "version": "1.0.0",
   "type": "module",
   "license": "MIT",
   "scripts": {
@@ -13,10 +13,10 @@
     "build": "storybook build"
   },
   "dependencies": {
-    "@ignite-ui/eslint-config": "*",
-    "@ignite-ui/react": "*",
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@n-ignite-ui/eslint-config": "*",
+    "@n-ignite-ui/react": "*",
+    "@n-ignite-ui/tokens": "*",
+    "@n-ignite-ui/ts-config": "*",
     "@storybook/addon-a11y": "^7.6.17",
     "phosphor-react": "^1.4.1",
     "polished": "^4.2.2",
