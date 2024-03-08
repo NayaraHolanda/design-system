@@ -17,6 +17,6 @@
     "@n-ignite-ui/ts-config": "*",
     "@n-ignite-ui/eslint-config": "*",
     "tsup": "^7.2.0",
-    "typescript": "^5.2.2"
+    "typescript": "^4.8.4"
   }
 }
