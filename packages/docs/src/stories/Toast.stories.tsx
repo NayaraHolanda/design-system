@@ -10,16 +10,9 @@ export default {
     buttonText: 'See Toast'
   },
   argTypes: {
-    title: {
-      control: {
-        type: 'text',
-      },
-    },
-    description: {
-      control: {
-        type: 'text',
-      },
-    },
+    buttonText: {
+      control: false
+    }
   },
 } as Meta<ToastProps>
 
