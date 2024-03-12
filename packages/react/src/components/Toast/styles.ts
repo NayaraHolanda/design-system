@@ -65,6 +65,10 @@ export const ToastDescription = styled(Toast.Description, {
 export const ToastClose = styled(Toast.Close, {
   color: '$gray200',
   cursor: 'pointer',
+
+  '&:hover': {
+    color: '$white',
+  },
 })
 
 export const ToastViewport = styled(Toast.Viewport, {
