@@ -83,5 +83,6 @@ export const ToastViewport = styled(Toast.Viewport, {
   maxWidth: '100vw',
   margin: 0,
   zIndex: 2147483647,
+  overflow: 'hidden',
   outline: 'none',
 })
