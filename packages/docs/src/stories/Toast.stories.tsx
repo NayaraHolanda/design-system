@@ -2,7 +2,7 @@ import type { StoryObj, Meta } from '@storybook/react'
 import { Toast, ToastProps } from '@n-ignite-ui/react'
 
 export default {
-  title: 'Form/Toast',
+  title: 'Overlays/Toast',
   component: Toast,
   args: {
     title: 'Agendamento realizado',
